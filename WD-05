@@ -1,0 +1,49 @@
+<html>
+<title>Practical 05</title>
+<body>
+<h1 align="center"><b><u><i>RESUME</i></u></b></h1>
+<img src= "C:\Users\Atharv\Downloads\pictr.png" height="120px" width="120px" align="right">
+<h2>Name: Dakshita M. Hedau</h2>
+<h2>Email: dakshitah.cse25@sbjit.edu.in</h2>
+<br>
+<hr width="100%">
+<h2><u>Education Details:-</u></h2>
+<table border="2">
+<tr>
+<th>Sr.No.</th>
+<th>Qualification</th>
+<th>Marks</th>
+</tr>
+<tr>
+<td>1</td>
+<td>SSC</td>
+<td>85%</td>
+</tr>
+<tr>
+<td>2</td>
+<td>HSC</td>
+<td>70%</td>
+</tr>
+</table>
+<h2><u>Technical Skills:-</u></h2>
+<ul>
+<li>C</li>
+<li>C++</li>
+<li>HTML</li>
+</ul>
+<h2><u>Internship Experience:-</u></h2>
+<ul>
+<li>Fresher</li>
+</ul>
+<h2><u>Personal Details</u></h2>
+<ul>
+<li>Name: Dakshita Milind Hedau</li>
+<li>Email: dakshitah.cse25@sbjit.edu.in</li>
+<li>Age: 19</li>
+<li>Contact No.: 8329060898</li>
+</ul>
+<hr width="100%">
+<h4>Place: Nagpur</h4>
+<h4 align="right">Sign</h4>
+</body>
+</html>
